@@ -1,3 +1,6 @@
 Rikki is having a really tough time with this GitHub thing. 
 Figured out how to create repository etceteras. But now lets work on pulling stuff out of the repository. 
 
+Lets see if pulling stuff from GitHub works
+
+

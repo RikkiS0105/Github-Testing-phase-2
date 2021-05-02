@@ -3,4 +3,7 @@ Figured out how to create repository etceteras. But now lets work on pulling stu
 
 Lets see if pulling stuff from GitHub works
 
+If this line disappears my Pull has been successful
+
+Will have to check with Lecturer tomorrow on how to pull the file from GitHub Repository
 
